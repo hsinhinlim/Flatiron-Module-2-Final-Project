@@ -14,7 +14,7 @@ We will attempt to achieve the primary objective in 3 steps:
 
 3) **Assessing model accuracy** - Once we have ascertained that our 3 feature model meets the assumptions of linear regression, we can test the degree of accuracy of the model by analysing the mean error between the price predicted by the model and the actual price data. This will give a sense of the limitations of the model, where the limitations occur and the range of values the actual price of the property can take on away from the benchmark predictions made by the model.
 
-4) Finally, after having identified 3 relevant features - we will attempt to achieve the secondary objective by using each feature as the basis for asking meaningful questions about the data from the perspective of a firm of real estate agents who are new to King County.
+Finally, after having identified 3 relevant features - we will attempt to achieve the secondary objective by using each feature as the basis for asking meaningful questions about the data from the perspective of a firm of real estate agents who are new to King County.
 
 ## Contents
 This repository contains:
