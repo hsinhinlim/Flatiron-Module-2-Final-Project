@@ -1,16 +1,16 @@
 # Flatiron Module 2 Final Project
 
 ## Objective
-King County Dataset
+To apply multivariate linear regression on a dataset of residential properties (and their prices) located in King County, Washington
 
 ## Approach
 
 ## Contents
 This repository contains:
-1) a Jupyter Notebook (Student.ipynb) which contains the EDA and actual analysis undertaken to reach certain conclusions and recommendations
-2) a pdf of a slide presentation (presentation.pdf), setting out the conclusions and recommendations to a non-technical audience.
-3) 
-4)
+1) a Jupyter Notebook (student.ipynb) which contains the EDA and actual analysis undertaken to reach certain conclusions and recommendations;
+2) a pdf of a slide presentation (presentation.pdf), setting out the conclusions and recommendations to a non-technical audience;
+3) the dataset of King County housing data (kc_house_data.csv); and
+4) a geojson file (zip_codes.geojson) setting out the polygon shapes of various King County zipcodes which are in the dataset. This is used to draw the choropleth map in the Jupyter notebook
 
 ## Usage
 Clone the repository and run the Jupyter Notebook
