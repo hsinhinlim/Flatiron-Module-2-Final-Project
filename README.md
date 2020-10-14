@@ -6,7 +6,7 @@ We attempt to apply multivariate linear regression on a dataset of residential p
 As a **secondary objective**, the project attempts to harness the data for intelligence about the residential landscape which may be useful to these real estate agents (who, remember, have never been to King County). For instance, where the old neighbourhoods are and where the high quality housing is located in King County.
 
 ## Approach
-We will attempt to achieve the primary objective in 3 steps:
+We will attempt to achieve the **primary objective** in 3 steps:
 
 1) **Exploratory Data Analysis** - In this step we will look at the entire data set, remove null values, convert data into numerical datatypes, investigate correlations between the data and (crucially) come to a view as to whether certain data is continuous or categorical. Looking at the correlations between the data (and between each independent variable and the dependent variable **price**) will provide initial clues as to which of the independent variables will be good predictors. We will also focus on the distribution of the dependent variable **price** and on the distribution of the independent variables in the dataset. This focus is designed to remove outlier values (of both the dependent and independent variables) which may interfere in the interpretation of any model.
 
@@ -14,7 +14,7 @@ We will attempt to achieve the primary objective in 3 steps:
 
 3) **Assessing model accuracy** - Once we have ascertained that our 3 feature model meets the assumptions of linear regression, we can test the degree of accuracy of the model by analysing the mean error between the price predicted by the model and the actual price data. This will give a sense of the limitations of the model, where the limitations occur and the range of values the actual price of the property can take on away from the benchmark predictions made by the model.
 
-Finally, after having identified 3 relevant features - we will attempt to achieve the secondary objective by using each feature as the basis for asking meaningful questions about the data from the perspective of a firm of real estate agents who are new to King County.
+Finally, after having identified 3 relevant features - we will attempt to achieve the **secondary objective** by using each feature as the basis for asking meaningful questions about the data from the perspective of a firm of real estate agents who are new to King County.
 
 ## Contents
 This repository contains:
