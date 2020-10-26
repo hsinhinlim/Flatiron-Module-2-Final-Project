@@ -1,7 +1,7 @@
 # Flatiron Module 2 Final Project
 
 ## Objective
-We attempt to apply multivariate linear regression on a dataset of residential properties located in King County, Washington in order to predict their sale price. Our business case assumes we are providing advice to a firm of real estate agents who wish to break into the residential property market in King County. Because they have no idea where to start negotiations between buyers and sellers on properties in King County they may be instructed to sell, the **primary objective** of this project is to build a simple 3 feature model which will generate a benchmark price around which negotiations can happen. 
+We attempt to apply multiple linear regression on a dataset of residential properties located in King County, Washington in order to predict their sale price. Our business case assumes we are providing advice to a firm of real estate agents who wish to break into the residential property market in King County. Because they have no idea where to start negotiations between buyers and sellers on properties in King County they may be instructed to sell, the **primary objective** of this project is to build a simple 3 feature model which will generate a benchmark price around which negotiations can happen. 
 
 As a **secondary objective**, the project attempts to harness the data for intelligence about the residential landscape which may be useful to these real estate agents (who, remember, have never been to King County). For instance, where the old neighbourhoods are and where the high quality housing is located in King County.
 
