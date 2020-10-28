@@ -20,8 +20,9 @@ Finally, after having identified 3 relevant features - we will attempt to achiev
 This repository contains:
 1) a Jupyter Notebook (student.ipynb) which contains the EDA and actual analysis undertaken to reach certain conclusions and recommendations;
 2) a pdf of a slide presentation (presentation.pdf), setting out the conclusions and recommendations to a non-technical audience;
-3) the dataset of King County housing data (kc_house_data.csv); and
-4) a geojson file (zip_codes.geojson) setting out the polygon shapes of various King County zipcodes which are in the dataset. This is used to draw the choropleth map in the Jupyter notebook
+3) two interactive choropleth maps (KC_map and KC_map_sales) in html; 
+4) the dataset of King County housing data (kc_house_data.csv); and
+5) a geojson file (zip_codes.geojson) setting out the polygon shapes of various King County zipcodes which are in the dataset. This is used to draw the choropleth map in the Jupyter notebook
 
 ## Usage
 Clone the repository and run the Jupyter Notebook
